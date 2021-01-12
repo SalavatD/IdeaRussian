@@ -1,0 +1,13 @@
+<idea-plugin>
+ <id>com.salavatd.idearussian</id>
+ <version>1.0</version>
+ <idea-version since-build="203" until-build="203.*"/>
+ <name>Русский языковой пакет</name>
+ <vendor>Salavat Dautov</vendor>
+ <description><![CDATA[Добавляет русский язык в качестве языка интерфейса IDE.]]></description>
+ <change-notes><![CDATA[<b>Январь 2021</b><br>Версия 1.0]]></change-notes>
+ <depends>com.intellij.modules.platform</depends>
+ <extensions defaultExtensionNs="com.intellij">
+   <languageBundle lang="ru"/>
+ </extensions>
+</idea-plugin>
