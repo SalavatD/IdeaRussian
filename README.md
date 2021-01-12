@@ -1,6 +1,7 @@
 # IdeaRussian
-Неофициальный русификатор для IDE на платформе IntelliJ.
+Неофициальный русификатор для IDE на платформе IntelliJ.  
 Частично переводит пользовательский интерфейс.
+
 ![Скиншот](https://github.com/SalavatD/IdeaRussian/blob/main/Screen.png)
 ## Скачать
 [RussianLanguagePack.jar](https://github.com/SalavatD/IdeaRussian/releases/download/v1.0/RussianLanguagePack.jar)
